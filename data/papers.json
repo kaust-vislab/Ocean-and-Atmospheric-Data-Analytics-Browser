@@ -1,0 +1,884 @@
+[ 
+ {
+  "doi": "10.1109/TVCG.2013.1384",
+  "short_name": null,
+  "title": "Visual analysis of spatio-temporal data: Applications in weather forecasting",
+  "citation": "Diehl, Alexandra and Pelorosso, Leandro and Delrieux, Claudio and Saulo, Celeste and Ruiz, Juan and Gr{\"o}ller, M Eduard and Bruckner, Stefan. 2015. Visual analysis of spatio-temporal data: Applications in weather forecasting. In Computer Graphics Forum.",
+  "thumbnail_link": "4.png",
+  "pub_year": 2015,
+  "authors": "Diehl, Alexandra and Pelorosso, Leandro and Delrieux, Claudio and Saulo, Celeste and Ruiz, Juan and Gr{\"o}ller, M Eduard and Bruckner, Stefan"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.1385",
+  "short_name": null,
+  "title": "Visual Analysis of the Temporal Evolution of Ensemble Forecast Sensitivities",
+  "citation": "Kumpf, Alexander and Rautenhaus, Marc and Riemer, Michael and Westermann, R{\"u}diger. 2019. Visual Analysis of the Temporal Evolution of Ensemble Forecast Sensitivities. In IEEE transactions on visualization and computer graphics.",
+  "thumbnail_link": "5.png",
+  "pub_year": 2019,
+  "authors": "Kumpf, Alexander and Rautenhaus, Marc and Riemer, Michael and Westermann, R{\"u}diger"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.1386",
+  "short_name": null,
+  "title": "Guided analysis of hurricane trends using statistical processes integrated with interactive parallel coordinates",
+  "citation": "Steed, Chad A and Swan, J Edward and Jankun-Kelly, TJ and Fitzpatrick, Patrick J. 2009. Guided analysis of hurricane trends using statistical processes integrated with interactive parallel coordinates. In Visual Analytics Science and Technology, 2009. VAST 2009. IEEE Symposium on.",
+  "thumbnail_link": "6.png",
+  "pub_year": 2009,
+  "authors": "Steed, Chad A and Swan, J Edward and Jankun-Kelly, TJ and Fitzpatrick, Patrick J"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.1387",
+  "short_name": null,
+  "title": "A visual analytics process for maritime resource allocation and risk assessment",
+  "citation": "Malik, Abish and Maciejewski, Ross and Maule, Ben and Ebert, David S. 2011. A visual analytics process for maritime resource allocation and risk assessment. In Visual Analytics Science and Technology (VAST).",
+  "thumbnail_link": "7.png",
+  "pub_year": 2011,
+  "authors": "Malik, Abish and Maciejewski, Ross and Maule, Ben and Ebert, David S"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.1388",
+  "short_name": null,
+  "title": "Vismate: Interactive visual analysis of station-based observation data on climate changes",
+  "citation": "Li, Jie and Zhang, Kang and Meng, Zhao-Peng. 2014. Vismate: Interactive visual analysis of station-based observation data on climate changes. In Visual Analytics Science and Technology (VAST).",
+  "thumbnail_link": "8.png",
+  "pub_year": 2014,
+  "authors": "Li, Jie and Zhang, Kang and Meng, Zhao-Peng"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.1389",
+  "short_name": null,
+  "title": "Comparative visual analysis of vector field ensembles",
+  "citation": "Jarema, Mihaela and Demir, Ismail and Kehrer, Johannes and Westermann, R{\"u}diger. Y. Comparative visual analysis of vector field ensembles. In Visual Analytics Science and Technology (VAST).",
+  "thumbnail_link": "9.png",
+  "pub_year": 2015,
+  "authors": "Jarema, Mihaela and Demir, Ismail and Kehrer, Johannes and Westermann, R{\"u}diger"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13810",
+  "short_name": null,
+  "title": "Visual analytics methods for categoric spatio-temporal data",
+  "citation": "Von Landesberger, Tatiana and Bremm, Sebastian and Andrienko, Natalia and Andrienko, Gennady and Tekusova, Maria. 2012. Visual analytics methods for categoric spatio-temporal data. In Visual Analytics Science and Technology (VAST).",
+  "thumbnail_link": "10.png",
+  "pub_year": 2012,
+  "authors": "Von Landesberger, Tatiana and Bremm, Sebastian and Andrienko, Natalia and Andrienko, Gennady and Tekusova, Maria"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13811",
+  "short_name": null,
+  "title": "DSPCP: A Data Scalable Approach for Identifying Relationships in Parallel Coordinates",
+  "citation": "H. Nguyen and P. Rosen. 2018. DSPCP: A Data Scalable Approach for Identifying Relationships in Parallel Coordinates. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "11.png",
+  "pub_year": 2018,
+  "authors": "H. Nguyen and P. Rosen"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13812",
+  "short_name": null,
+  "title": "Indexed-Points Parallel Coordinates Visualization of Multivariate Correlations",
+  "citation": "L. Zhou and D. Weiskopf. 2018. Indexed-Points Parallel Coordinates Visualization of Multivariate Correlations. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "12.png",
+  "pub_year": 2018,
+  "authors": "L. Zhou and D. Weiskopf"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13813",
+  "short_name": null,
+  "title": "Semantic Flow Graph: A Framework for Discovering Object Relationships in Flow Fields",
+  "citation": "J. Tao and C. Wang and N. V. Chawla and L. Shi and S. H. KimJ. Tao and C. Wang and N. V. Chawla and L. Shi and S. H. Kim. 2018. Semantic Flow Graph: A Framework for Discovering Object Relationships in Flow Fields. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "13.png",
+  "pub_year": 2018,
+  "authors": "J. Tao and C. Wang and N. V. Chawla and L. Shi and S. H. Kim"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13814",
+  "short_name": null,
+  "title": "Visual Analysis of Spatia-temporal Relations of Pairwise Attributes in Unsteady Flow",
+  "citation": "Berenjkoub, Marzieh and Monico, Rodolfo Ostilla and Laramee, Robert S and Chen, Guoning. 2019. Visual Analysis of Spatia-temporal Relations of Pairwise Attributes in Unsteady Flow. In IEEE transactions on visualization and computer graphics.",
+  "thumbnail_link": "14.png",
+  "pub_year": 2019,
+  "authors": "Berenjkoub, Marzieh and Monico, Rodolfo Ostilla and Laramee, Robert S and Chen, Guoning"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13816",
+  "short_name": null,
+  "title": "Exploring the evolution of pressure-perturbations to understand atmospheric phenomena",
+  "citation": "Widanagamaachchi, Wathsala and Jacques, Alexander and Wang, Bei and Crosman, Erik and Bremer, Peer-Timo and Pascucci, Valerio and Horel, John and others. 2017. Exploring the evolution of pressure-perturbations to understand atmospheric phenomena. In 2017 IEEE Pacific Visualization Symposium (PacificVis).",
+  "thumbnail_link": "16.png",
+  "pub_year": 2017,
+  "authors": "Widanagamaachchi, Wathsala and Jacques, Alexander and Wang, Bei and Crosman, Erik and Bremer, Peer-Timo and Pascucci, Valerio and Horel, John and others"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13817",
+  "short_name": null,
+  "title": "Correlation study of time-varying multivariate climate data sets",
+  "citation": "Sukharev, Jeffrey and Wang, Chaoli and Ma, Kwan-Liu and Wittenberg, Andrew T. 2009. Correlation study of time-varying multivariate climate data sets. In Visualization Symposium, 2009. PacificVis.",
+  "thumbnail_link": "17.png",
+  "pub_year": 2009,
+  "authors": "Sukharev, Jeffrey and Wang, Chaoli and Ma, Kwan-Liu and Wittenberg, Andrew T"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13818",
+  "short_name": null,
+  "title": "TraVis-A visualization framework for mobile transect data sets in an urban microclimate context",
+  "citation": "H{\"a}b, Kathrin and Middel, Ariane and Ruddell, Benjamin L and Hagen, Hans. 2015. TraVis-A visualization framework for mobile transect data sets in an urban microclimate context. In Visualization Symposium (PacificVis).",
+  "thumbnail_link": "18.png",
+  "pub_year": 2015,
+  "authors": "H{\"a}b, Kathrin and Middel, Ariane and Ruddell, Benjamin L and Hagen, Hans"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13819",
+  "short_name": null,
+  "title": "Visual analysis of uncertainties in ocean forecasts for planning and operation of off-shore structures",
+  "citation": "H{\"o}llt, Thomas and Magdy, Ahmed and Chen, Guoning and Gopalakrishnan, Ganesh and Hoteit, Ibrahim and Hansen, Charles D and Hadwiger, Markus. 2013. Visual analysis of uncertainties in ocean forecasts for planning and operation of off-shore structures. In Visualization Symposium (PacificVis), 2013 IEEE Pacific.",
+  "thumbnail_link": "19.png",
+  "pub_year": 2013,
+  "authors": "H{\"o}llt, Thomas and Magdy, Ahmed and Chen, Guoning and Gopalakrishnan, Ganesh and Hoteit, Ibrahim and Hansen, Charles D and Hadwiger, Markus"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13820",
+  "short_name": null,
+  "title": "Visualizing the variations of ensemble of isosurfaces",
+  "citation": "Hazarika, Subhashis and Dutta, Soumya and Shen, Han-Wei. 2016. Visualizing the variations of ensemble of isosurfaces. In 2016 IEEE Pacific Visualization Symposium (PacificVis).",
+  "thumbnail_link": "20.png",
+  "pub_year": 2016,
+  "authors": "Hazarika, Subhashis and Dutta, Soumya and Shen, Han-Wei"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13821",
+  "short_name": null,
+  "title": "EnsembleGraph: Interactive visual analysis of spatiotemporal behaviors in ensemble simulation data",
+  "citation": "Shu, Qingya and Guo, Hanqi and Liang, Jie and Che, Limei and Liu, Junfeng and Yuan, Xiaoru. 2016. EnsembleGraph: Interactive visual analysis of spatiotemporal behaviors in ensemble simulation data. In Pacific Visualization Symposium (PacificVis).",
+  "thumbnail_link": "21.png",
+  "pub_year": 2016,
+  "authors": "Shu, Qingya and Guo, Hanqi and Liang, Jie and Che, Limei and Liu, Junfeng and Yuan, Xiaoru"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13822",
+  "short_name": null,
+  "title": "A comparative 3D visualization tool for observation of mode water",
+  "citation": "Yano, Midori and Itoh, Takayuki and Tanaka, Yuusuke and Matsuoka, Daisuke and Araki, Fumiaki. 2018. A comparative 3D visualization tool for observation of mode water. In Pacific Visualization Symposium (PacificVis).",
+  "thumbnail_link": "22.png",
+  "pub_year": 2018,
+  "authors": "Yano, Midori and Itoh, Takayuki and Tanaka, Yuusuke and Matsuoka, Daisuke and Araki, Fumiaki"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13823",
+  "short_name": null,
+  "title": "Exploration of climate data using interactive visualization",
+  "citation": "Ladst{\"a}dter, Florian and Steiner, Andrea K and Lackner, Bettina C and Pirscher, Barbara and Kirchengast, Gottfried and Kehrer, Johannes and Hauser, Helwig and Muigg, Philipp and Doleisch, Helmut. 2010. Exploration of climate data using interactive visualization. In Journal of Atmospheric and Oceanic Technology.",
+  "thumbnail_link": "23.png",
+  "pub_year": 2010,
+  "authors": "Ladst{\"a}dter, Florian and Steiner, Andrea K and Lackner, Bettina C and Pirscher, Barbara and Kirchengast, Gottfried and Kehrer, Johannes and Hauser, Helwig and Muigg, Philipp and Doleisch, Helmut"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13824",
+  "short_name": null,
+  "title": "An interactive parallel coordinates technique applied to a tropical cyclone climate analysis",
+  "citation": "Chad A. Steed and Patrick J. Fitzpatrick and T.J. Jankun-Kelly and Amber N. Yancey and J. Edward Swan II. 2009. An interactive parallel coordinates technique applied to a tropical cyclone climate analysis. In Computers and Geosciences.",
+  "thumbnail_link": "24.png",
+  "pub_year": 2009,
+  "authors": "Chad A. Steed and Patrick J. Fitzpatrick and T.J. Jankun-Kelly and Amber N. Yancey and J. Edward Swan II"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13825",
+  "short_name": null,
+  "title": "Ultrascale Visualization of Climate Data",
+  "citation": "D. N. Williams and T. Bremer and C. Doutriaux and J. Patchett and S. Williams and G. Shipman and R. Miller and D. R. Pugmire and B. Smith and C. Steed and E. W. Bethel and H. Childs and H. Krishnan and P. Prabhat and M. Wehner and C. T. Silva and E. Santos and D. Koop and T. Ellqvist and J. Poco and B. Geveci and A. Chaudhary and A. Bauer and A. Pletzer and D. Kindig and G. L. Potter and T. P. Maxwell. 2013. Ultrascale Visualization of Climate Data. In Computer.",
+  "thumbnail_link": "25.png",
+  "pub_year": 2013,
+  "authors": "D. N. Williams and T. Bremer and C. Doutriaux and J. Patchett and S. Williams and G. Shipman and R. Miller and D. R. Pugmire and B. Smith and C. Steed and E. W. Bethel and H. Childs and H. Krishnan and P. Prabhat and M. Wehner and C. T. Silva and E. Santos and D. Koop and T. Ellqvist and J. Poco and B. Geveci and A. Chaudhary and A. Bauer and A. Pletzer and D. Kindig and G. L. Potter and T. P. Maxwell"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13826",
+  "short_name": null,
+  "title": "Interactive visualization of high-dimensional petascale ocean data",
+  "citation": "D. A. Ellsworth and C. E. Henze and B. C. Nelson. 2017. Interactive visualization of high-dimensional petascale ocean data. In 2017 IEEE 7th Symposium on Large Data Analysis and Visualization (LDAV).",
+  "thumbnail_link": "26.png",
+  "pub_year": 2017,
+  "authors": "D. A. Ellsworth and C. E. Henze and B. C. Nelson"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13827",
+  "short_name": null,
+  "title": "Visual analytics of large-scale climate model data",
+  "citation": "Pak Chung Wong and Han-Wei Shen and R. Leung and S. Hagos and T. Lee and Xin Tong and K. Lu. 2014. Visual analytics of large-scale climate model data. In 2014 IEEE 4th Symposium on Large Data Analysis and Visualization (LDAV).",
+  "thumbnail_link": "27.png",
+  "pub_year": 2014,
+  "authors": "Pak Chung Wong and Han-Wei Shen and R. Leung and S. Hagos and T. Lee and Xin Tong and K. Lu"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13828",
+  "short_name": null,
+  "title": "Gaussian mixture model based volume visualization",
+  "citation": "S. Liu and J. A. Levine and P. Bremer and V. Pascucci. 2012. Gaussian mixture model based volume visualization. In IEEE Symposium on Large Data Analysis and Visualization (LDAV).",
+  "thumbnail_link": "28.png",
+  "pub_year": 2012,
+  "authors": "S. Liu and J. A. Levine and P. Bremer and V. Pascucci"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13829",
+  "short_name": null,
+  "title": "Designing a better weather display",
+  "citation": "Ware, Colin and Plumlee, Matthew D. 2013. Designing a better weather display. In Information Visualization.",
+  "thumbnail_link": "29.png",
+  "pub_year": 2013,
+  "authors": "Ware, Colin and Plumlee, Matthew D"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13830",
+  "short_name": null,
+  "title": "Interactive visual summaries for detection and assessment of spatiotemporal patterns in geospatial time series",
+  "citation": "K{\"o}thur, Patrick and Sips, Mike and Unger, Andrea and Kuhlmann, Julian and Dransch, Doris. 2014. Interactive visual summaries for detection and assessment of spatiotemporal patterns in geospatial time series. In Information Visualization.",
+  "thumbnail_link": "30.png",
+  "pub_year": 2014,
+  "authors": "K{\"o}thur, Patrick and Sips, Mike and Unger, Andrea and Kuhlmann, Julian and Dransch, Doris"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13831",
+  "short_name": null,
+  "title": "Exploratory visualization for weather data verification",
+  "citation": "Lundblad, Patrik and L{\"o}fving, Hanna and Elovsson, Annika and Johansson, Jimmy. 2011. Exploratory visualization for weather data verification. In 2011 15th International Conference on Information Visualisation.",
+  "thumbnail_link": "31.png",
+  "pub_year": 2011,
+  "authors": "Lundblad, Patrik and L{\"o}fving, Hanna and Elovsson, Annika and Johansson, Jimmy"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13832",
+  "short_name": null,
+  "title": "Interactive visualization of weather and ship data",
+  "citation": "Lundblad, Patrik and Eurenius, Oskar and Heldring, Tobias. 2009. Interactive visualization of weather and ship data. In Information Visualisation, 2009 13th International Conference.",
+  "thumbnail_link": "32.png",
+  "pub_year": 2009,
+  "authors": "Lundblad, Patrik and Eurenius, Oskar and Heldring, Tobias"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13833",
+  "short_name": null,
+  "title": "Directional Texture for Visualization - New Technique and Application Study",
+  "citation": "M. Maskey and T. S. Newman. 2015. Directional Texture for Visualization - New Technique and Application Study. In 2015 19th International Conference on Information Visualisation.",
+  "thumbnail_link": "33.png",
+  "pub_year": 2015,
+  "authors": "M. Maskey and T. S. Newman"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13834",
+  "short_name": null,
+  "title": "Swedish Road Weather Visualization",
+  "citation": "P. Lundblad and J. Thoursie and M. Jern. 2010. Swedish Road Weather Visualization. In 2010 14th International Conference Information Visualisation.",
+  "thumbnail_link": "34.png",
+  "pub_year": 2010,
+  "authors": "P. Lundblad and J. Thoursie and M. Jern"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13835",
+  "short_name": null,
+  "title": "Space-in-time and time-in-space self-organizing maps for exploring spatiotemporal patterns",
+  "citation": "Andrienko, Gennady and Andrienko, Natalia and Bremm, Sebastian and Schreck, Tobias and Von Landesberger, Tatiana and Bak, Peter and Keim, Daniel. 2010. Space-in-time and time-in-space self-organizing maps for exploring spatiotemporal patterns. In Computer Graphics Forum.",
+  "thumbnail_link": "35.png",
+  "pub_year": 2010,
+  "authors": "Andrienko, Gennady and Andrienko, Natalia and Bremm, Sebastian and Schreck, Tobias and Von Landesberger, Tatiana and Bak, Peter and Keim, Daniel"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13836",
+  "short_name": null,
+  "title": "Visualization and analysis of eddies in a global ocean simulation",
+  "citation": "Williams, Sean and Hecht, Matthew and Petersen, Mark and Strelitz, Richard and Maltrud, Mathew and Ahrens, J and Hlawitschka, Mario and Hamann, Bernd. 2011. Visualization and analysis of eddies in a global ocean simulation. In Computer Graphics Forum.",
+  "thumbnail_link": "36.png",
+  "pub_year": 2011,
+  "authors": "Williams, Sean and Hecht, Matthew and Petersen, Mark and Strelitz, Richard and Maltrud, Mathew and Ahrens, J and Hlawitschka, Mario and Hamann, Bernd"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13837",
+  "short_name": null,
+  "title": "Interface exchange as an indicator for eddy heat transport",
+  "citation": "Williams, Sean and Petersen, Mark and Hecht, Matthew and Maltrud, Mathew and Patchett, John and Ahrens, J and Hamann, Bernd. 2012. Interface exchange as an indicator for eddy heat transport. In Computer Graphics Forum.",
+  "thumbnail_link": "37.png",
+  "pub_year": 2012,
+  "authors": "Williams, Sean and Petersen, Mark and Hecht, Matthew and Maltrud, Mathew and Patchett, John and Ahrens, J and Hamann, Bernd"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13838",
+  "short_name": null,
+  "title": "VIMTEX: A Visualization Interface for Multivariate, Time-Varying, Geological Data Exploration",
+  "citation": "Dasgupta, Aritra and Kosara, Robert and Gosink, Luke. 2015. VIMTEX: A Visualization Interface for Multivariate, Time-Varying, Geological Data Exploration. In Computer Graphics Forum.",
+  "thumbnail_link": "38.png",
+  "pub_year": 2015,
+  "authors": "Dasgupta, Aritra and Kosara, Robert and Gosink, Luke"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13839",
+  "short_name": null,
+  "title": "Visualizing Time-Specific Hurricane Predictions, with Uncertainty, from Storm Path Ensembles",
+  "citation": "Liu, Le and Mirzargar, Mahsa and Kirby, Robert M and Whitaker, Ross and House, Donald H. 2015. Visualizing Time-Specific Hurricane Predictions, with Uncertainty, from Storm Path Ensembles. In Computer Graphics Forum.",
+  "thumbnail_link": "39.png",
+  "pub_year": 2015,
+  "authors": "Liu, Le and Mirzargar, Mahsa and Kirby, Robert M and Whitaker, Ross and House, Donald H"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13840",
+  "short_name": null,
+  "title": "Towards quantitative visual analytics with structured brushing and linked statistics",
+  "citation": "Rados, S and Splechtna, Rainer and Matkovic, K and DJuras, M and Groller, Eduard and Hauser, Helwig. 2016. Towards quantitative visual analytics with structured brushing and linked statistics. In Computer Graphics Forum.",
+  "thumbnail_link": "40.png",
+  "pub_year": 2016,
+  "authors": "Rados, Sanjin and Splechtna, Rainer and Matkovic, K and DJuras, M and Groller, Eduard and Hauser, Helwig"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13841",
+  "short_name": null,
+  "title": "Visual Analysis of Spatial Variability and Global Correlations in Ensembles of Iso-Contours",
+  "citation": "Ferstl, Florian and Kanzler, Mathias and Rautenhaus, Marc and Westermann, R{\"u}diger. 2016. Visual Analysis of Spatial Variability and Global Correlations in Ensembles of Iso-Contours. In Computer Graphics Forum.",
+  "thumbnail_link": "41.png",
+  "pub_year": 2016,
+  "authors": "Ferstl, Florian and Kanzler, Mathias and Rautenhaus, Marc and Westermann, R{\"u}diger"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13842",
+  "short_name": null,
+  "title": "SimilarityExplorer: A Visual Inter-Comparison Tool for Multifaceted Climate Data",
+  "citation": "Poco, Jorge and Dasgupta, Aritra and Wei, Yaxing and Hargrove, W and Schwalm, C and Cook, R and Bertini, Enrico and Silva, C. 2014. SimilarityExplorer: A Visual Inter-Comparison Tool for Multifaceted Climate Data. In Computer Graphics Forum.",
+  "thumbnail_link": "42.png",
+  "pub_year": 2014,
+  "authors": "Poco, Jorge and Dasgupta, Aritra and Wei, Yaxing and Hargrove, W and Schwalm, C and Cook, R and Bertini, Enrico and Silva, C"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13843",
+  "short_name": null,
+  "title": "Interactive Fusion and Tracking For Multi-Modal Spatial Data Visualization",
+  "citation": "Elshehaly, Mai and Gracanin, D and Gad, Mohamed and Elmongui, Hicham G and Matkovic, K. 2015. Interactive Fusion and Tracking For Multi-Modal Spatial Data Visualization. In Computer Graphics Forum.",
+  "thumbnail_link": "43.png",
+  "pub_year": 2015,
+  "authors": "Elshehaly, Mai and Gracanin, D and Gad, Mohamed and Elmongui, Hicham G and Matkovic, K"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13844",
+  "short_name": null,
+  "title": "Interactive ray casting of geodesic grids",
+  "citation": "Xie, Jinrong and Yu, Hongfeng and Ma, Kwan-Liu. 2013. Interactive ray casting of geodesic grids. In Computer Graphics Forum.",
+  "thumbnail_link": "44.png",
+  "pub_year": 2013,
+  "authors": "Xie, Jinrong and Yu, Hongfeng and Ma, Kwan-Liu"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13845",
+  "short_name": null,
+  "title": "Visualization of urban micro-climate simulations",
+  "citation": "R{\"o}ber, Niklas and Salim, Mohamed and Gierisch, Andrea and B{\"o}ttinger, Michael and Schl{\"u}nzen, Heinke. 2013. Visualization of urban micro-climate simulations. In Proceedings of workshop on visualisation in environmental sciences (EnvirVis).",
+  "thumbnail_link": "45.png",
+  "pub_year": 2013,
+  "authors": "R{\"o}ber, Niklas and Salim, Mohamed and Gierisch, Andrea and B{\"o}ttinger, Michael and Schl{\"u}nzen, Heinke"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13846",
+  "short_name": null,
+  "title": "Utilizing GeoTemCo for Visualizing Environmental Data",
+  "citation": "J{\"a}nicke, Stefan and Scheuermann, Gerik. 2014. Utilizing GeoTemCo for Visualizing Environmental Data. In The Eurographics Association.",
+  "thumbnail_link": "46.png",
+  "pub_year": 2014,
+  "authors": "J{\"a}nicke, Stefan and Scheuermann, Gerik"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13847",
+  "short_name": null,
+  "title": "Multivariate Visualization of Oceanography Data Using Decals",
+  "citation": "Rocha, Allan and Silva, Julio Daniel and Alim, Usman and Sousa, Mario Costa. 2017. Multivariate Visualization of Oceanography Data Using Decals. In Workshop on Visualisation in Environmental Sciences (EnvirVis).",
+  "thumbnail_link": "47.png",
+  "pub_year": 2017,
+  "authors": "Rocha, Allan and Silva, Julio Daniel and Alim, Usman and Sousa, Mario Costa"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13848",
+  "short_name": null,
+  "title": "3D Visualization of Atmospheric Data for Analytical Approaches",
+  "citation": "Helbig, C. and Rink, K. and Bauer, H.-S. and Wulfmeyer, V. and Frank, M. and Kolditz, O. 2013. 3D Visualization of Atmospheric Data for Analytical Approaches. In Workshop on Visualisation in Environmental Sciences (EnvirVis).",
+  "thumbnail_link": "48.png",
+  "pub_year": 2013,
+  "authors": "Helbig, C. and Rink, K. and Bauer, H.-S. and Wulfmeyer, V. and Frank, M. and Kolditz, O"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13849",
+  "short_name": null,
+  "title": "Visualization of 2D Uncertainty in Decadal Climate Predictions",
+  "citation": "B{\"o}ttinger, Michael and Pohlmann, Holger and R{\"o}ber, Niklas and Meier-Fleischer, Karin and Spickermann, Dela. 2015. Visualization of 2D Uncertainty in Decadal Climate Predictions. In Workshop on Visualisation in Environmental Sciences (EnvirVis).",
+  "thumbnail_link": "49.png",
+  "pub_year": 2015,
+  "authors": "B{\"o}ttinger, Michael and Pohlmann, Holger and R{\"o}ber, Niklas and Meier-Fleischer, Karin and Spickermann, Dela"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13850",
+  "short_name": null,
+  "title": "Ensemble-vis: A framework for the statistical visualization of ensemble data",
+  "citation": "Potter, Kristin and Wilson, Andrew and Bremer, Peer-Timo and Williams, Dean and Doutriaux, Charles and Pascucci, Valerio and Johnson, Chris R. 2009. Ensemble-vis: A framework for the statistical visualization of ensemble data. In Data Mining Workshops, 2009. ICDMW'09.",
+  "thumbnail_link": "50.png",
+  "pub_year": 2009,
+  "authors": "Potter, Kristin and Wilson, Andrew and Bremer, Peer-Timo and Williams, Dean and Doutriaux, Charles and Pascucci, Valerio and Johnson, Chris R"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13851",
+  "short_name": null,
+  "title": "Understanding climate change patterns with multivariate geovisualization",
+  "citation": "Jin, Hai and Guo, Diansheng. 2009. Understanding climate change patterns with multivariate geovisualization. In Data Mining Workshops, 2009. ICDMW'09.",
+  "thumbnail_link": "51.png",
+  "pub_year": 2009,
+  "authors": "Jin, Hai and Guo, Diansheng"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13852",
+  "short_name": null,
+  "title": "Forecast Verification and Visualization based on Gaussian Mixture Model Co‐estimation",
+  "citation": "Wang, Y. H. and Fan, C. R. and Zhang, J. and Niu, T. and Zhang, S. and Jiang, J. R. 2015. Forecast Verification and Visualization based on Gaussian Mixture Model Co‐estimation. In Computer Graphics Forum.",
+  "thumbnail_link": "52.png",
+  "pub_year": 2015,
+  "authors": "Wang, Y. H. and Fan, C. R. and Zhang, J. and Niu, T. and Zhang, S. and Jiang, J. R"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13853",
+  "short_name": null,
+  "title": "Albero: A Visual Analytics Approach for Probabilistic Weather Forecasting",
+  "citation": "Diehl, Alexandra and Pelorosso, Leandro and Delrieux, Claudio and Matkovic, Kresimir and Ruiz, Juan and Gr{\"o}ller, M. Eduard and Bruckner, Stefan. 2016. Albero: A Visual Analytics Approach for Probabilistic Weather Forecasting. In Computer Graphics Forum.",
+  "thumbnail_link": "53.png",
+  "pub_year": 2016,
+  "authors": "Diehl, Alexandra and Pelorosso, Leandro and Delrieux, Claudio and Matkovic, Kresimir and Ruiz, Juan and Gr{\"o}ller, M. Eduard and Bruckner, Stefan"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13855",
+  "short_name": null,
+  "title": "Visual Analytics for Spatial Clusters of Air-Quality Data",
+  "citation": "Zhou, Zhiguang and Ye, Zhifei and Liu, Yanan and Liu, Fang and Tao, Yubo and Su, Weihua. 2017. Visual Analytics for Spatial Clusters of Air-Quality Data. In IEEE computer graphics and applications.",
+  "thumbnail_link": "55.png",
+  "pub_year": 2017,
+  "authors": "Zhou, Zhiguang and Ye, Zhifei and Liu, Yanan and Liu, Fang and Tao, Yubo and Su, Weihua"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13856",
+  "short_name": null,
+  "title": "Visualizing Volcanic Clouds in the Atmosphere and Their Impact on Air Traffic",
+  "citation": "G{\"u}nther, Tobias and Schulze, Maik and Friederici, Anke and Theisel, Holger. 2016. Visualizing Volcanic Clouds in the Atmosphere and Their Impact on Air Traffic. In IEEE computer graphics and applications.",
+  "thumbnail_link": "56.png",
+  "pub_year": 2016,
+  "authors": "G{\"u}nther, Tobias and Schulze, Maik and Friederici, Anke and Theisel, Holger"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13857",
+  "short_name": null,
+  "title": "Interactive vector field feature identification",
+  "citation": "Daniels II, Joel and Anderson, Erik W and Nonato, Luis Gustavo and Silva, Claudio T. 2010. Interactive vector field feature identification. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "57.png",
+  "pub_year": 2010,
+  "authors": "Daniels II, Joel and Anderson, Erik W and Nonato, Luis Gustavo and Silva, Claudio T"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13858",
+  "short_name": null,
+  "title": "Visual Analysis of the Air Pollution Problem in Hong Kong",
+  "citation": "H. Qu and W. Chan and A. Xu and K. Chung and K. Lau  and P. Guo. 2007. Visual Analysis of the Air Pollution Problem in Hong Kong. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "58.png",
+  "pub_year": 2007,
+  "authors": "H. Qu and W. Chan and A. Xu and K. Chung and K. Lau  and P. Guo"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13859",
+  "short_name": null,
+  "title": "An Exploratory Framework for Cyclone Identification and Tracking",
+  "citation": "A. A. Valsangkar and J. M. Monteiro and V. Narayanan and I. Hotz and V. Natarajan. 2018. An Exploratory Framework for Cyclone Identification and Tracking. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "59.png",
+  "pub_year": 2018,
+  "authors": "A. A. Valsangkar and J. M. Monteiro and V. Narayanan and I. Hotz and V. Natarajan"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13860",
+  "short_name": null,
+  "title": "An Exploration Framework to Identify and Track Movement of Cloud Systems",
+  "citation": "H. Doraiswamy and V. Natarajan and R. S. Nanjundiah. 2013. An Exploration Framework to Identify and Track Movement of Cloud Systems. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "60.png",
+  "pub_year": 2013,
+  "authors": "H. Doraiswamy and V. Natarajan and R. S. Nanjundiah"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13861",
+  "short_name": null,
+  "title": "Curve Boxplot: Generalization of Boxplot for Ensembles of Curves",
+  "citation": "M. Mirzargar and R. T. Whitaker and R. M. Kirby. 2014. Curve Boxplot: Generalization of Boxplot for Ensembles of Curves. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "61.png",
+  "pub_year": 2014,
+  "authors": "M. Mirzargar and R. T. Whitaker and R. M. Kirby"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13862",
+  "short_name": null,
+  "title": "Modality-Driven Classification and Visualization of Ensemble Variance",
+  "citation": "K. Bensema and L. Gosink and H. Obermaier and K. I. Joy. 2016. Modality-Driven Classification and Visualization of Ensemble Variance. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "62.png",
+  "pub_year": 2016,
+  "authors": "K. Bensema and L. Gosink and H. Obermaier and K. I. Joy"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13863",
+  "short_name": null,
+  "title": "Multi-Charts for Comparative 3D Ensemble Visualization",
+  "citation": "I. Demir and C. Dick and R. Westermann. 2014. Multi-Charts for Comparative 3D Ensemble Visualization. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "63.png",
+  "pub_year": 2014,
+  "authors": "I. Demir and C. Dick and R. Westermann"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13864",
+  "short_name": null,
+  "title": "Positional Uncertainty of Isocontours: Condition Analysis and Probabilistic Measures",
+  "citation": "K. Pothkow and H. Hege. 2011. Positional Uncertainty of Isocontours: Condition Analysis and Probabilistic Measures. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "64.png",
+  "pub_year": 2011,
+  "authors": "K. Pothkow and H. Hege"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13865",
+  "short_name": null,
+  "title": "Coupled Ensemble Flow Line Advection and Analysis",
+  "citation": "H. Guo and X. Yuan and J. Huang and X. Zhu. 2013. Coupled Ensemble Flow Line Advection and Analysis. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "65.png",
+  "pub_year": 2013,
+  "authors": "H. Guo and X. Yuan and J. Huang and X. Zhu"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13866",
+  "short_name": null,
+  "title": "Uncertainty-Aware Multidimensional Ensemble Data Visualization and Exploration",
+  "citation": "H. Chen and S. Zhang and W. Chen and H. Mei and J. Zhang and A. Mercer and R. Liang and H. Qu. 2015. Uncertainty-Aware Multidimensional Ensemble Data Visualization and Exploration. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "66.png",
+  "pub_year": 2015,
+  "authors": "H. Chen and S. Zhang and W. Chen and H. Mei and J. Zhang and A. Mercer and R. Liang and H. Qu"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13867",
+  "short_name": null,
+  "title": "Representing Flow Patterns by Using Streamlines with Glyphs",
+  "citation": "D. H. F. Pilar and C. Ware. 2013. Representing Flow Patterns by Using Streamlines with Glyphs. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "67.png",
+  "pub_year": 2013,
+  "authors": "D. H. F. Pilar and C. Ware"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13868",
+  "short_name": null,
+  "title": "A GPU-Accelerated Approach for Feature Tracking in Time-Varying Imagery Datasets",
+  "citation": "C. Peng and S. Sahani and J. Rushing. 2017. A GPU-Accelerated Approach for Feature Tracking in Time-Varying Imagery Datasets. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "68.png",
+  "pub_year": 2017,
+  "authors": "C. Peng and S. Sahani and J. Rushing"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13869",
+  "short_name": null,
+  "title": "Query-driven visualization of time-varying adaptive mesh refinement data",
+  "citation": "Meyer, Miriah and Gosink, Luke J and Anderson, John C and Bethel, E Wes and Joy, Kenneth I. 2008. Query-driven visualization of time-varying adaptive mesh refinement data. In IEEE transactions on visualization and computer graphics.",
+  "thumbnail_link": "69.png",
+  "pub_year": 2008,
+  "authors": "Meyer, Miriah and Gosink, Luke J and Anderson, John C and Bethel, E Wes and Joy, Kenneth I"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13870",
+  "short_name": null,
+  "title": "An application of multivariate statistical analysis for query-driven visualization",
+  "citation": "Gosink, Luke J and Garth, Christoph and Anderson, John C and Bethel, E Wes and Joy, Kenneth I. 2011. An application of multivariate statistical analysis for query-driven visualization. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "70.png",
+  "pub_year": 2011,
+  "authors": "Gosink, Luke J and Garth, Christoph and Anderson, John C and Bethel, E Wes and Joy, Kenneth I"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13871",
+  "short_name": null,
+  "title": "Continuous Scatterplots",
+  "citation": "A. 2008. Continuous Scatterplots. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "71.png",
+  "pub_year": 2008,
+  "authors": "S. Bachthaler and D. Weiskopf"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13872",
+  "short_name": null,
+  "title": "Importance-Driven Time-Varying Data Visualization",
+  "citation": "C. Wang and H. Yu and K. Ma. 2008. Importance-Driven Time-Varying Data Visualization. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "72.png",
+  "pub_year": 2008,
+  "authors": "C. Wang and H. Yu and K. Ma"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13873",
+  "short_name": null,
+  "title": "Scalable Multivariate Volume Visualization and Analysis Based on Dimension Projection and Parallel Coordinates",
+  "citation": "H. Guo and H. Xiao and X. Yuan. 2012. Scalable Multivariate Volume Visualization and Analysis Based on Dimension Projection and Parallel Coordinates. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "73.png",
+  "pub_year": 2012,
+  "authors": "H. Guo and H. Xiao and X. Yuan"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13874",
+  "short_name": null,
+  "title": "Visualization and Exploration of Temporal Trend Relationships in Multivariate Time-Varying Data",
+  "citation": "T. Lee and H. Shen. 2009. Visualization and Exploration of Temporal Trend Relationships in Multivariate Time-Varying Data. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "74.png",
+  "pub_year": 2009,
+  "authors": "T. Lee and H. Shen"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13875",
+  "short_name": null,
+  "title": "Extensions of parallel coordinates for interactive exploration of large multi-timepoint data sets",
+  "citation": "Blaas, Jorik and Botha, Charl and Post, Frits. 2008. Extensions of parallel coordinates for interactive exploration of large multi-timepoint data sets. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "75.png",
+  "pub_year": 2008,
+  "authors": "Blaas, Jorik and Botha, Charl and Post, Frits"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13876",
+  "short_name": null,
+  "title": "Multiscale time activity data exploration via temporal clustering visualization spreadsheet",
+  "citation": "Woodring, Jonathan and Shen, Han-Wei. 2009. Multiscale time activity data exploration via temporal clustering visualization spreadsheet. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "76.png",
+  "pub_year": 2009,
+  "authors": "Woodring, Jonathan and Shen, Han-Wei"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13877",
+  "short_name": null,
+  "title": "Interactive Visual Analysis of Complex Scientific Data as Families of Data Surfaces",
+  "citation": "K. Matkovic and D. Gracanin and B. Klarin and H. Hauser. 2009. Interactive Visual Analysis of Complex Scientific Data as Families of Data Surfaces. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "77.png",
+  "pub_year": 2009,
+  "authors": "K. Matkovic and D. Gracanin and B. Klarin and H. Hauser"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13878",
+  "short_name": null,
+  "title": "Visualizing Temporal Patterns in Large Multivariate Data using Textual Pattern Matching",
+  "citation": "M. Glatter and J. Huang and S. Ahern and J. Daniel and A. Lu. 2008. Visualizing Temporal Patterns in Large Multivariate Data using Textual Pattern Matching. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "78.png",
+  "pub_year": 2008,
+  "authors": "M. Glatter and J. Huang and S. Ahern and J. Daniel and A. Lu"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13879",
+  "short_name": null,
+  "title": "Finite-time lyapunov exponents and lagrangian coherent structures in uncertain unsteady flows",
+  "citation": "Guo, Hanqi and He, Wenbin and Peterka, Tom and Shen, Han-Wei and Collis, Scott M and Helmus, Jonathan J. 2016. Finite-time lyapunov exponents and lagrangian coherent structures in uncertain unsteady flows. In IEEE transactions on visualization and computer graphics.",
+  "thumbnail_link": "79.png",
+  "pub_year": 2016,
+  "authors": "Guo, Hanqi and He, Wenbin and Peterka, Tom and Shen, Han-Wei and Collis, Scott M and Helmus, Jonathan J"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13880",
+  "short_name": null,
+  "title": "Robust Detection and Visualization of Jet-stream Core Lines in Atmospheric Flow",
+  "citation": "Kern, Michael and Hewson, Tim and Sadlo, Filip and Westermann, R{\"u}diger and Rautenhaus, Marc. 2018. Robust Detection and Visualization of Jet-stream Core Lines in Atmospheric Flow. In IEEE transactions on visualization and computer graphics.",
+  "thumbnail_link": "80.png",
+  "pub_year": 2018,
+  "authors": "Kern, Michael and Hewson, Tim and Sadlo, Filip and Westermann, R{\"u}diger and Rautenhaus, Marc"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13881",
+  "short_name": null,
+  "title": "Visual Analysis of the Temporal Evolution of Ensemble Forecast Sensitivities",
+  "citation": "Kumpf, Alexander and Rautenhaus, Marc and Riemer, Michael and Westermann, R{\"u}diger. 2018. Visual Analysis of the Temporal Evolution of Ensemble Forecast Sensitivities. In IEEE transactions on visualization and computer graphics.",
+  "thumbnail_link": "81.png",
+  "pub_year": 2018,
+  "authors": "Kumpf, Alexander and Rautenhaus, Marc and Riemer, Michael and Westermann, R{\"u}diger"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13882",
+  "short_name": null,
+  "title": "Brushing of attribute clouds for the visualization of multivariate data",
+  "citation": "J{\"a}nicke, Heike and B{\"o}ttinger, Michael and Scheuermann, Gerik. 2008. Brushing of attribute clouds for the visualization of multivariate data. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "82.png",
+  "pub_year": 2008,
+  "authors": "J{\"a}nicke, Heike and B{\"o}ttinger, Michael and Scheuermann, Gerik"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13883",
+  "short_name": null,
+  "title": "Hypothesis generation in climate research with interactive visual data exploration",
+  "citation": "Kehrer, Johannes and Ladst{\"a}dter, Florian and Muigg, Philipp and Doleisch, Helmut and Steiner, Andrea and Hauser, Helwig. 2008. Hypothesis generation in climate research with interactive visual data exploration. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "83.png",
+  "pub_year": 2008,
+  "authors": "Kehrer, Johannes and Ladst{\"a}dter, Florian and Muigg, Philipp and Doleisch, Helmut and Steiner, Andrea and Hauser, Helwig"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13884",
+  "short_name": null,
+  "title": "Visual exploration of climate variability changes using wavelet analysis",
+  "citation": "Janicke, Heike and Bottinger, Michael and Mikolajewicz, Uwe and Scheuermann, Gerik. 2009. Visual exploration of climate variability changes using wavelet analysis. In IEEE transactions on visualization and computer graphics.",
+  "thumbnail_link": "84.png",
+  "pub_year": 2009,
+  "authors": "Janicke, Heike and Bottinger, Michael and Mikolajewicz, Uwe and Scheuermann, Gerik"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13885",
+  "short_name": null,
+  "title": "A visual analysis concept for the validation of geoscientific simulation models",
+  "citation": "Unger, Andrea and Schulte, Sven and Klemann, Volker and Dransch, Doris. 2012. A visual analysis concept for the validation of geoscientific simulation models. In IEEE Transactions on Visualization & Computer Graphics.",
+  "thumbnail_link": "85.png",
+  "pub_year": 2012,
+  "authors": "Unger, Andrea and Schulte, Sven and Klemann, Volker and Dransch, Doris"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13886",
+  "short_name": null,
+  "title": "Visual reconciliation of alternative similarity spaces in climate modeling",
+  "citation": "Poco, Jorge and Dasgupta, Aritra and Wei, Yaxing and Hargrove, William and Schwalm, Christopher R and Huntzinger, Deborah N and Cook, Robert and Bertini, Enrico and Silva, Claudio T. 2014. Visual reconciliation of alternative similarity spaces in climate modeling. In IEEE transactions on visualization and computer graphics.",
+  "thumbnail_link": "86.png",
+  "pub_year": 2014,
+  "authors": "Poco, Jorge and Dasgupta, Aritra and Wei, Yaxing and Hargrove, William and Schwalm, Christopher R and Huntzinger, Deborah N and Cook, Robert and Bertini, Enrico and Silva, Claudio T"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13887",
+  "short_name": null,
+  "title": "In situ eddy analysis in a high-resolution ocean climate model",
+  "citation": "Woodring, Jonathan and Petersen, Mark and Schmei$\beta$er, Andre and Patchett, John and Ahrens, James and Hagen, Hans. 2016. In situ eddy analysis in a high-resolution ocean climate model. In IEEE transactions on visualization and computer graphics.",
+  "thumbnail_link": "87.png",
+  "pub_year": 2016,
+  "authors": "Woodring, Jonathan and Petersen, Mark and Schmei$\beta$er, Andre and Patchett, John and Ahrens, James and Hagen, Hans"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13888",
+  "short_name": null,
+  "title": "Visualization of time-varying weather ensembles across multiple resolutions",
+  "citation": "Biswas, Ayan and Lin, Guang and Liu, Xiaotong and Shen, Han-Wei. 2017. Visualization of time-varying weather ensembles across multiple resolutions. In IEEE transactions on visualization and computer graphics.",
+  "thumbnail_link": "88.png",
+  "pub_year": 2017,
+  "authors": "Biswas, Ayan and Lin, Guang and Liu, Xiaotong and Shen, Han-Wei"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13889",
+  "short_name": null,
+  "title": "Multi-resolution climate ensemble parameter analysis with nested parallel coordinates plots",
+  "citation": "Wang, Junpeng and Liu, Xiaotong and Shen, Han-Wei and Lin, Guang. 2017. Multi-resolution climate ensemble parameter analysis with nested parallel coordinates plots. In Ieee transactions on visualization and computer graphics.",
+  "thumbnail_link": "89.png",
+  "pub_year": 2017,
+  "authors": "Wang, Junpeng and Liu, Xiaotong and Shen, Han-Wei and Lin, Guang"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13890",
+  "short_name": null,
+  "title": "Visualizing confidence in cluster-based ensemble weather forecast analyses",
+  "citation": "Kumpf, Alexander and Tost, Bianca and Baumgart, Marlene and Riemer, Michael and Westermann, R{\"u}diger and Rautenhaus, Marc. 2018. Visualizing confidence in cluster-based ensemble weather forecast analyses. In IEEE transactions on visualization and computer graphics.",
+  "thumbnail_link": "90.png",
+  "pub_year": 2018,
+  "authors": "Kumpf, Alexander and Tost, Bianca and Baumgart, Marlene and Riemer, Michael and Westermann, R{\"u}diger and Rautenhaus, Marc"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13891",
+  "short_name": null,
+  "title": "Exploring Variability within Ensembles of Decadal Climate Predictions",
+  "citation": "Kappe, Christopher Paul and Bottinger, Michael and Leitte, Heike. 2018. Exploring Variability within Ensembles of Decadal Climate Predictions. In IEEE Transactions on Visualization & Computer Graphics.",
+  "thumbnail_link": "91.png",
+  "pub_year": 2018,
+  "authors": "Kappe, Christopher Paul and Bottinger, Michael and Leitte, Heike"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13892",
+  "short_name": null,
+  "title": "Interactive 3D Visual Analysis of Atmospheric Fronts",
+  "citation": "Kern, Michael and Hewson, Tim and Sch{\"a}fler, Andreas and Westermann, R{\"u}diger and Rautenhaus, Marc. 2018. Interactive 3D Visual Analysis of Atmospheric Fronts. In IEEE transactions on visualization and computer graphics.",
+  "thumbnail_link": "92.png",
+  "pub_year": 2018,
+  "authors": "Kern, Michael and Hewson, Tim and Sch{\"a}fler, Andreas and Westermann, R{\"u}diger and Rautenhaus, Marc"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13893",
+  "short_name": null,
+  "title": "Noodles: A tool for visualization of numerical weather model ensemble uncertainty",
+  "citation": "Sanyal, Jibonananda and Zhang, Song and Dyer, Jamie and Mercer, Andrew and Amburn, Philip and Moorhead, Robert. 2010. Noodles: A tool for visualization of numerical weather model ensemble uncertainty. In IEEE Transactions on Visualization & Computer Graphics.",
+  "thumbnail_link": "93.png",
+  "pub_year": 2010,
+  "authors": "Sanyal, Jibonananda and Zhang, Song and Dyer, Jamie and Mercer, Andrew and Amburn, Philip and Moorhead, Robert"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13894",
+  "short_name": null,
+  "title": "Forecasting hotspots---A predictive analytics approach",
+  "citation": "Maciejewski, Ross and Hafen, Ryan and Rudolph, Stephen and Larew, Stephen G and Mitchell, Michael A and Cleveland, William S and Ebert, David S. 2011. Forecasting hotspots---A predictive analytics approach. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "94.png",
+  "pub_year": 2011,
+  "authors": "Maciejewski, Ross and Hafen, Ryan and Rudolph, Stephen and Larew, Stephen G and Mitchell, Michael A and Cleveland, William S and Ebert, David S"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13895",
+  "short_name": null,
+  "title": "Contour boxplots: A method for characterizing uncertainty in feature sets from simulation ensembles",
+  "citation": "Whitaker, Ross T and Mirzargar, Mahsa and Kirby, Robert M. 2013. Contour boxplots: A method for characterizing uncertainty in feature sets from simulation ensembles. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "95.png",
+  "pub_year": 2013,
+  "authors": "Whitaker, Ross T and Mirzargar, Mahsa and Kirby, Robert M"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13896",
+  "short_name": null,
+  "title": "Ovis: A framework for visual analysisof ocean forecast ensembles",
+  "citation": "H{\"o}llt, Thomas and Magdy, Ahmed and Zhan, Peng and Chen, Guoning and Gopalakrishnan, Ganesh and Hoteit, Ibrahim and Hansen, Charles D and Hadwiger, Markus. 2014. Ovis: A framework for visual analysisof ocean forecast ensembles. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "96.png",
+  "pub_year": 2014,
+  "authors": "H{\"o}llt, Thomas and Magdy, Ahmed and Zhan, Peng and Chen, Guoning and Gopalakrishnan, Ganesh and Hoteit, Ibrahim and Hansen, Charles D and Hadwiger, Markus"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13897",
+  "short_name": null,
+  "title": "Visually comparing weather features in forecasts",
+  "citation": "Quinan, P Samuel and Meyer, Miriah. 2016. Visually comparing weather features in forecasts. In IEEE transactions on visualization and computer graphics.",
+  "thumbnail_link": "97.png",
+  "pub_year": 2016,
+  "authors": "Quinan, P Samuel and Meyer, Miriah"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13898",
+  "short_name": null,
+  "title": "Time-hierarchical clustering and visualization of weather forecast ensembles",
+  "citation": "Ferstl, Florian and Kanzler, Mathias and Rautenhaus, Marc and Westermann, R{\"u}diger. 2017. Time-hierarchical clustering and visualization of weather forecast ensembles. In Ieee transactions on visualization and computer graphics.",
+  "thumbnail_link": "98.png",
+  "pub_year": 2017,
+  "authors": "Ferstl, Florian and Kanzler, Mathias and Rautenhaus, Marc and Westermann, R{\"u}diger"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.13899",
+  "short_name": null,
+  "title": "An Interactive Framework for Visualization of Weather Forecast Ensembles",
+  "citation": "Ma, Bo and Entezari, Alireza. 2018. An Interactive Framework for Visualization of Weather Forecast Ensembles. In IEEE transactions on visualization and computer graphics.",
+  "thumbnail_link": "99.png",
+  "pub_year": 2018,
+  "authors": "Ma, Bo and Entezari, Alireza"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.138100",
+  "short_name": null,
+  "title": "Visualizing Uncertain Tropical Cyclone Predictions using Representative Samples from Ensembles of Forecast Tracks",
+  "citation": "Liu, Le and Padilla, Lace and Creem-Regehr, Sarah H and House, Donald H. 2018. Visualizing Uncertain Tropical Cyclone Predictions using Representative Samples from Ensembles of Forecast Tracks. In IEEE transactions on visualization and computer graphics.",
+  "thumbnail_link": "100.png",
+  "pub_year": 2018,
+  "authors": "Liu, Le and Padilla, Lace and Creem-Regehr, Sarah H and House, Donald H"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.138101",
+  "short_name": null,
+  "title": "Uncertainty Visualization by Representative Sampling from Prediction Ensembles",
+  "citation": "Liu, Le and Boone, Alexander P and Ruginski, Ian T and Padilla, Lace and Hegarty, Mary and Creem-Regehr, Sarah H and Thompson, William B and Yuksel, Cem and House, Donald H. 2017. Uncertainty Visualization by Representative Sampling from Prediction Ensembles. In IEEE transactions on visualization and computer graphics.",
+  "thumbnail_link": "101.png",
+  "pub_year": 2017,
+  "authors": "Liu, Le and Boone, Alexander P and Ruginski, Ian T and Padilla, Lace and Hegarty, Mary and Creem-Regehr, Sarah H and Thompson, William B and Yuksel, Cem and House, Donald H"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.138102",
+  "short_name": null,
+  "title": "Adaptive extraction and quantification of geophysical vortices",
+  "citation": "Williams, Sean and Petersen, Mark and Bremer, P-T and Hecht, Matthew and Pascucci, Valerio and Ahrens, James and Hlawitschka, Mario and Hamann, Bernd. 2011. Adaptive extraction and quantification of geophysical vortices. In IEEE Transactions on Visualization & Computer Graphics.",
+  "thumbnail_link": "102.png",
+  "pub_year": 2011,
+  "authors": "Williams, Sean and Petersen, Mark and Bremer, P-T and Hecht, Matthew and Pascucci, Valerio and Ahrens, James and Hlawitschka, Mario and Hamann, Bernd"
+ },
+ {
+  "doi": "10.1109/TVCG.2013.138103",
+  "short_name": null,
+  "title": "Urban Weathering: Interactive Rendering of Polluted Cities",
+  "citation": "Munoz-Pandiella, Imanol and Bosch, Carles and Merillou, Stephane and Merillou, Nicolas and Patow, Gustavo and Pueyo, Xavier. 2018. Urban Weathering: Interactive Rendering of Polluted Cities. In IEEE Transactions on Visualization and Computer Graphics.",
+  "thumbnail_link": "103.png",
+  "pub_year": 2018,
+  "authors": "Munoz-Pandiella, Imanol and Bosch, Carles and Merillou, Stephane and Merillou, Nicolas and Patow, Gustavo and Pueyo, Xavier"
+ }
+]

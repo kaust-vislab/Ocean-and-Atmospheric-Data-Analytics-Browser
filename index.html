@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Ocean and Atmospheric Data Analytics Browser</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link href="stylesheet.css" rel="stylesheet">
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+  </head>
+
+  <body>
+
+    <nav id="header" class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <span class="navbar-site-title">Ocean and Atmospheric Data Analytics Browser</span><br>
+          <span class="navbar-site-citation">The State-of-the-Art in Visual Analytics Approaches for Ocean and Atmospheric Datasets 
+          </span>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a id="nav-about" class="nav-link" data-toggle="modal" data-target="#modal-about" href="#">About</a></li>
+            <li><a id="nav-summary" class="nav-link" data-toggle="modal" data-target="#modal-summary" href="#">Paper List</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <div id="content" class="container-fluid">
+        <div id="sidebar-container">
+          <div id="sidebar" class="sidebar">
+            <div id="side-static-top" class="side-static">
+              <div id="side-total-container" class="side-control-container">
+                <h4 style=" font-size: 20px; font-weight: bold;" class="side-control-header">Papers Displayed:</h4>
+                <h2 style=" font-size: 20px; font-weight: bold;"><strong id="side-total"></strong></h2>
+              </div>
+              <div id="side-search-container" class="side-control-container">
+                <h4 style=" font-size: 20px; font-weight: bold;" class="side-control-header">Search:</h4>
+                <div id="side-search-btn-group" class="btn-group">
+                  <input id="side-search" type="text" class="form-control">
+                  <button type="button" class="close" aria-label="Close">
+                    <span id="side-search-clear" aria-hidden="true">&times;</span>
+                  </button>
+                </div>
+              </div>
+              <div id="side-histogram" class="side-control-container">
+                <h4 style=" font-size: 20px; font-weight: bold;" class="side-control-header">Filter by Year:</h4>
+                <div id="side-histogram-label">
+                  <div class="pull-left"><strong></strong></div>
+                  <div class="pull-right"><strong></strong></div>
+                </div>
+                <div id="side-histogram-slider"></div>
+                <div id="side-histogram-graph"><svg id="histogram"></svg></div>
+              </div>
+            </div>            
+          </div>
+        </div>
+        <div id="thumbnails-container" class="row"></div>
+        <div id="modal-container">
+          <div id="modal-about" class="modal fade">
+            <div class="modal-dialog modal-thin" role="document">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <h3 class="modal-title" style=" font-size: 28px; font-weight: bolder; ">Oceanic and Atmospheric Data Analytics Browser</h3>
+                  <h4 class="modal-byline" style="font-size: 16px; font-weight: bolder; ">Created by Shehzad Afzal, Mazen Hittawe, Sohaib Ghani, Tahira Jamil, Omar Knio, Marcus Hadwiger, and Ibrahim Hoteit</h4>
+                  <h4 class="modal-byline" style="font-size: 16px; font-weight: bolder; "><a href="https://kvl.kaust.edu.sa/Pages/Home.aspx/">King Abdullah University of Science & Technology, KSA</a></h4>
+                  <p >This browser is created to display state-of-the-art work done in visual analysis approaches for ocean and atmospheric datasets. We surveyed hundreds of papers from several journals and conferences and shortlisted these most relevant papers.</p>
+                  <p>The design of this browser is inspired by the <a href="http://textvis.lnu.se/" target="_blank">Text Visualization Browser</a> created by the <a href="http://cs.lnu.se/isovis/" target="_blank">ISOVIS Group</a>.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="modal-summary" class="modal fade">
+            <div class="modal-dialog modal-full" role="document">
+              <div class="modal-content">
+                <div class="modal-body">
+                  <div id="summary-grid-container"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="modal-hidden-sandbox"></div>
+        </div>
+    </div>
+    <nav id="footer" class="navbar navbar-fixed-bottom">
+      <div class="container-fluid" style="    float: right;">
+        <h3 id="copyright"><small>© <a href="https://kvl.kaust.edu.sa/Pages/Home.aspx/">KAUST 2019</a>. All rights for the techniques and images belong to their paper authors.</small></h3>
+      </div>
+    </nav>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/canvasjs/1.7.0/jquery.canvasjs.min.js"></script>
+    <script src="setup.js"></script>
+    <script src="main.js"></script>
+  </body>
+</html>
